@@ -1,9 +1,6 @@
-import 'dart:io';
 import 'dart:math';
-import 'dart:ui';
 
 import 'package:expandable/expandable.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:markdown_editable_textinput/format_markdown.dart';
 
